@@ -1,0 +1,1 @@
+Im gonna use the git pull command so that the changes from the remote repo will be pulled to the local repo.
